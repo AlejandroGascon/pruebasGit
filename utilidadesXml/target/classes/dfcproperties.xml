@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sesionconfiguracion>
+	<cliente name="cetelem">
+		<entorno name="desa">
+			<usuario>Administrator</usuario>
+			<password>dctmdsr01*</password>
+			<domain></domain>
+			<data.dir>C:/Documentum</data.dir>
+			<dfc.tokenstorage.dir>C:/Documentum/apptoken</dfc.tokenstorage.dir>
+			<dfc.docbroker>
+				<host>128.1.2.143</host>
+				<port>1489</port>
+			</dfc.docbroker>
+			<dfc.globalregistry>
+				<repository>dctm_des</repository>
+				<username>dm_bof_registry</username>
+				<password>AAAAECiVZGMRkr5AxNj1iRvSFknmEbM8geSehj0EMJf5Rhgp</password>
+			</dfc.globalregistry>
+		</entorno>
+		<entorno name="desa_67">
+			<usuario>Administrator</usuario>
+			<password>dctmdsr01*</password>
+			<domain></domain>
+			<data.dir>C:/Documentum</data.dir>
+			<dfc.tokenstorage.dir>C:/Documentum/apptoken</dfc.tokenstorage.dir>
+			<dfc.docbroker>
+				<host>128.1.2.143</host>
+				<port>1489</port>
+			</dfc.docbroker>
+			<dfc.globalregistry>
+				<repository>dctm67_des</repository>
+				<username>dm_bof_registry</username>
+				<password>AAAAECiVZGMRkr5AxNj1iRvSFknmEbM8geSehj0EMJf5Rhgp</password>
+			</dfc.globalregistry>
+		</entorno>
+	</cliente>
+	<cliente name="mapfre">
+		<entorno name="desa">
+			<usuario>Administrator</usuario>
+			<password>dctmdsr01*</password>
+			<domain></domain>
+			<data.dir>C:/Documentum</data.dir>
+			<dfc.tokenstorage.dir>C:/Documentum/apptoken</dfc.tokenstorage.dir>
+			<dfc.docbroker>
+				<host>128.1.2.143</host>
+				<port>1489</port>
+			</dfc.docbroker>
+			<dfc.globalregistry>
+				<repository>dctm_des</repository>
+				<username>dm_bof_registry</username>
+				<password>AAAAECiVZGMRkr5AxNj1iRvSFknmEbM8geSehj0EMJf5Rhgp</password>
+			</dfc.globalregistry>
+		</entorno>
+	</cliente>
+</sesionconfiguracion>
+
+
