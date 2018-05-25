@@ -1,0 +1,2 @@
+# pruebasGit
+Repositorio de aprendizaje
